@@ -4,9 +4,9 @@
 	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
 		http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.3.xsd">
 	<bean id="sbu" class="com.cg.iter.demo1.c.SBU">
-	<property name="sbuCode" value="500"></property>
-	<property name="sbuName" value="Product Engineering Services"></property>
-	<property name="sbuHead" value="Kiran Rao"></property>
+	<property name="sbuCode" value="008"></property>
+	<property name="sbuName" value=" Engineering Services"></property>
+	<property name="sbuHead" value="Tripathy"></property>
 	<property name="emplist" >
 	<list>
 	<bean class="com.cg.iter.demo1.c.Employee">
